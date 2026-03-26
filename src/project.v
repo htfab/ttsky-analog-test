@@ -20,6 +20,4 @@ module tt_um_whatever (
     input  wire       rst_n     // reset_n - low to reset
 );
 
-syntax error
-
 endmodule
